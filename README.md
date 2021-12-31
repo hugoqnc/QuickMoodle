@@ -8,7 +8,7 @@ The goal of this project is to create a quick shortcut for macOS, to open and co
 
 ## Configuration
 * Modify the `moodle_c.txt` file inside this `QuickMoodle` folder: write your username on the first line and your password on the second line. **Disclaimer: it is a bad security practice to write your password in plain text — do so at your own risk.**
-* If you are using this script for another portal than ETH Zürich, you will have to change various parts of the `moodle.applescript` script.
+* If you are using this script for another portal than ETH Zürich, you will have to change various parts of the `moodle.scpt` script.
 * Move the folder `QuickMoodle` where you want to, for example in `/Users/YOUR_USERNAME/Documents/Shortcuts`.
 * Add the shortcut [by clicking this link](https://www.icloud.com/shortcuts/fcd815449f804d1ebe36a6aab58affa6) on your Mac. When prompted, provide the previously set path to the `QuickMoodle` folder.
 
